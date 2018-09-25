@@ -375,8 +375,8 @@
 					"$(SRCROOT)/../../react-native/React/**",
 					"$(SRCROOT)/../../react-native/Libraries/Image",
 					"$(SRCROOT)/../../../ios/Pods/Headers/Public/**",
-					"$(SRCROOT)/Vendor/SDWebImage",
-					"$(SRCROOT)/Vendor/SDWebImage/Vendors/FLAnimatedImage",
+					"$(SRCROOT)/../../../ios/Frameworks/Appboy-3.8.1/SDWebImage.framework/Headers",
+					"$(SRCROOT)/../../../ios/Frameworks/Appboy-3.8.1/FLAnimatedImage.framework/Headers",
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -392,8 +392,8 @@
 					"$(SRCROOT)/../../react-native/React/**",
 					"$(SRCROOT)/../../react-native/Libraries/Image",
 					"$(SRCROOT)/../../../ios/Pods/Headers/Public/**",
-					"$(SRCROOT)/Vendor/SDWebImage",
-					"$(SRCROOT)/Vendor/SDWebImage/Vendors/FLAnimatedImage",
+					"$(SRCROOT)/../../../ios/Frameworks/Appboy-3.8.1/SDWebImage.framework/Headers",
+					"$(SRCROOT)/../../../ios/Frameworks/Appboy-3.8.1/FLAnimatedImage.framework/Headers",
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
