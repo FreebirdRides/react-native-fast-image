@@ -31,7 +31,7 @@
     "@babel/core": "^7.1.0",
     "babel-jest": "^23.6.0",
     "jest": "^23.6.0",
-    "metro-react-native-babel-preset": "^0.45.6",
+    "metro-react-native-babel-preset": "^0.46.0",
     "prettier": "^1.14.3",
     "prettier-check": "^2.0.0",
     "prop-types": "^15.6.2",
